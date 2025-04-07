@@ -164,6 +164,15 @@ body {
     color: white;
     display: flex;
 }
+.cart-count{
+    margin-top: 19px;
+    color: white;
+    margin-left: 27px;
+    position: absolute;
+    font-size: 25px;
+
+}
+
 .cart_quantity_count{
     margin-top: 16px;
     /* background-color: red; */
